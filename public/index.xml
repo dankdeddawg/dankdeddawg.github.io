@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hai-Dang VU</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hai-Dang VU</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SynELF Framework</title>
+      <link>http://localhost:1313/projects/synelf/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/synelf/</guid>
+      <description>Active learning framework for molecular energy prediction.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a &lt;strong&gt;Pharmacist-Bioinformatician&lt;/strong&gt; and computational researcher focusing on machine learning for molecular property prediction and virtual screening.&lt;/p&gt;
+&lt;h3 id=&#34;education--background&#34;&gt;Education &amp;amp; Background&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Master 1 GENIOMHE-AI&lt;/strong&gt; – Université d&amp;rsquo;Évry Paris-Saclay&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doctor of Pharmacy (PharmD)&lt;/strong&gt; – University of Medicine and Pharmacy at Ho Chi Minh City&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Active Learning Frameworks in Chemoinformatics&lt;/li&gt;
+&lt;li&gt;Structure-Based Virtual Screening (GNINA, AutoDock Vina)&lt;/li&gt;
+&lt;li&gt;Computational Oncology &amp;amp; Drug Discovery&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

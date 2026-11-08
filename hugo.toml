@@ -1,0 +1,44 @@
+baseURL = 'https://dankdeddawg.github.io/'
+languageCode = 'en-us'
+title = 'Hai-Dang VU'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto' # light/dark mode auto switcher
+  showToc = true
+
+  [params.homeInfoParams]
+    title = "Hi, I'm Hai-Dang"
+    content = "Pharmacist & Bioinformatician specializing in drug discovery, active learning frameworks, and computational oncology."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dankdeddawg"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/vhdangpharmbioinf"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:vhdang.work@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "cv_fr"
+    name = "My CV in fr"
+    url = "/cv_fr.pdf"
+    weight = 30
+  [[menu.main]]
+    identifier = "cv_en"
+    name = "My CV in en"
+    url = "/cv_en.pdf"
+    weight = 30
